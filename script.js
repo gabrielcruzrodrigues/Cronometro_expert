@@ -37,7 +37,7 @@ function iniciarCronometro() {
 
         min30 += 1;
 
-        if (min30 == 5) {
+        if (min30 == 30) {
             alteraRelogio();
             min30 = 0;
         }
